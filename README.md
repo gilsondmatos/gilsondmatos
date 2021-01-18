@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Olá! Eu sou o Gilson.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;Sobre mim </h3>
@@ -44,9 +42,9 @@
 <h3> 🤝🏻 &nbsp;Conecte-se comigo </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/gilson-matos-a996954b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/gilson.amatos/?hl=pt-br"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="gilsondmatos@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/gilson-matos-a996954b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gilson%20Amorim%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/gilson.amatos/?hl=pt-br"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-gilson.amatos-blue?style=flat-square&logo=instagram"></a>
+<a href="gilsondmatos@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gilsondmatos@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Gilson](https://github.com/gilsondmatos)
