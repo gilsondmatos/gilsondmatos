@@ -5,4 +5,4 @@
 ###### ✉️ Você pode me enviar um e-mail no gilsondmatos@hotmail.com! Tentarei responder assim que puder.
 ###### 📄 Por favor, dê uma olhada no meu currículo para mais detalhes sobre mim. Estou aberto a comentários e sugestões!
 
-![Gilson Amorim github stats](https://github-readme-stats.vercel.app/api?username=gilsondmatos&theme=radical&show_icons=true)
+![Gilson github stats](https://github-readme-stats.vercel.app/api?username=gilsondmatos&theme=radical&show_icons=true)
