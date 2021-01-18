@@ -42,7 +42,7 @@
 <h3> 🤝🏻 &nbsp;Conecte-se comigo </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/gilson-matos-a996954b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gilson%20Amorim%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/gilson-matos-a996954b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gilson%20Amorim-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/gilson.amatos/?hl=pt-br"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-gilson.amatos-blue?style=flat-square&logo=instagram"></a>
 <a href="gilsondmatos@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gilsondmatos@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
