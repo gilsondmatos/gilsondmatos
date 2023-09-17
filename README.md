@@ -1,10 +1,10 @@
 # Olá, eu sou o Gilson - 👋 
-&nbsp;&nbsp;
+&nbsp;&nbsp;<div align="center">
 [![Spotify](https://novatorem-qr0muzzu7-gilsondmatos.vercel.app/api/spotify)](https://open.spotify.com/user/31w7sxsn3xn5ffzbonqebpm2trga)
+</div>
 &nbsp;&nbsp;
+
 ## Sou marido, pai e desenvolvedor!!
-
-
 
 - 🌱 Atualmente estou aprendendo tudo 🤣
 - 🎓 Estou realizando curso de Desonvolvedor Web na mesttra.
