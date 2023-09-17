@@ -1,7 +1,9 @@
 # Olá, eu sou o Gilson -  👋 
 &nbsp;&nbsp;
+[![Spotify](https://novatorem-qr0muzzu7-gilsondmatos.vercel.app/api/spotify)](https://open.spotify.com/user/31w7sxsn3xn5ffzbonqebpm2trga)
 &nbsp;&nbsp;
 ## Sou marido, pai e desenvolvedor!!
+
 
 
 - 🌱 Atualmente estou aprendendo tudo 🤣
