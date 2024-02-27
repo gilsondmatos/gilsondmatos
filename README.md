@@ -4,8 +4,6 @@
 </div>
 &nbsp;&nbsp;
 
-## Sou marido, pai e desenvolvedor!!
-
 - 🌱 Atualmente estou aprendendo tudo 🤣
 - 🎓 Estou realizando curso de Desonvolvedor Web na mesttra.
 - ⚡ Curiosidade: Adoro praticar esportes, ler, ir para igreja.
