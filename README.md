@@ -1,7 +1,5 @@
 # Olá, eu sou o Gilson Matos!👋 
-&nbsp;&nbsp;<div align="center">
-[![Spotify](https://novatorem-qr0muzzu7-gilsondmatos.vercel.app/api/spotify)](https://open.spotify.com/user/31w7sxsn3xn5ffzbonqebpm2trga)
-</div>
+
 &nbsp;&nbsp;
 
 - 🌱 Atualmente estou aprendendo tudo 🤣
